@@ -2,7 +2,8 @@
 **/.env
 **/__pycache__/
 
-
+example.env
+.env
 
 # Ignore all contents of the virtual environment directory
 .venv/*
